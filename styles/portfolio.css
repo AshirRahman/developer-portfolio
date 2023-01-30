@@ -188,3 +188,71 @@ main{
     color: #757575;
 
 }
+.section-title{
+    margin-top: 130px;
+    margin-bottom: 113px;
+}
+/* resume style */
+.edu-exp{
+    display: flex;
+    gap: 24px;
+    align-content: space-between;
+    
+}
+
+.education{
+    margin-top: 20px;
+    /* margin-bottom: 30px; */
+    /* border-bottom: 1px solid #D1D1D1; */
+}
+
+.varsity{
+    font-style: normal;
+    font-weight: 600;
+    font-size: small;
+    line-height: 27px;
+    color: #757575;
+    /* margin-top: px; */
+    margin-bottom: 5px;
+}
+.description{
+    font-style: normal;    
+    color: #757575;
+    font-size: smaller;
+    margin-bottom: 20px;
+}
+.resume-button{
+    margin-top: 50px;
+    text-align: center;
+}
+/* contact styles */
+.contact{
+    /* background-image: url("/"); */
+    margin-top: 123px;
+    display: flex;
+    background-color: #FFF8F3;
+}
+
+
+.form-foot, input, textarea{
+    margin-top: 12px;
+    margin-bottom: 12px;
+    padding: 10px;
+    text-align: left;
+}
+.connect, p{
+    margin-right: 117px;
+}
+.connect{
+    margin-top: 120px;
+    margin-left: 40px;
+    
+}
+.msg{
+    margin-top: 120px;
+}
+.connect, h4, p, a{
+    margin-bottom: 15px;
+    text-decoration: none;
+
+}
